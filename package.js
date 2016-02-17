@@ -1,8 +1,8 @@
 Package.describe({
-  name: "yogiben:autoform-file",
+  name: "spunkedy:autoform-file",
   summary: "File upload for AutoForm",
   description: "File upload for AutoForm",
-  version: "0.4.2",
+  version: "0.4.3",
   git: "https://github.com/yogiben/autoform-file.git"
 });
 
